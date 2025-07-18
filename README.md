@@ -9,6 +9,6 @@
 📚 Leading ITEG – a level-based program preparing students for real-world IT jobs.
 
 🌐 Portfolio: [azhar-ali-dev.github.io/Portfolio](https://azhar-ali-dev.github.io/Portfolio/)  
-🔗 LinkedIn: [linkedin.com/in/azhar-ali-20](https://www.linkedin.com/in/azhar-ali-20)  
+🔗 LinkedIn: [linkedin.com/in/azhar-ali-20](https://www.linkedin.com/in/azhar-ali-20-/)  
 💬 Let's connect and collaborate!
 
