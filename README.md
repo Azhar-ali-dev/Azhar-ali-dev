@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Azhar Ali
 
-<!--
-**Azhar-ali-dev/Azhar-ali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | 👨‍🏫 IT Instructor @ SSISM | Mentor
 
-Here are some ideas to get you started:
+🔧 Tech Stack: MERN, Java, Node.js, MongoDB, Express, React, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Passionate about building solutions that create real impact in education and training.
+
+📚 Leading ITEG – a level-based program preparing students for real-world IT jobs.
+
+🌐 Portfolio: [azhar-ali-dev.github.io/Portfolio](https://azhar-ali-dev.github.io/Portfolio/)  
+🔗 LinkedIn: [linkedin.com/in/azhar-ali-20](https://www.linkedin.com/in/azhar-ali-20)  
+💬 Let's connect and collaborate!
+
